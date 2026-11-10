@@ -1,0 +1,155 @@
+{
+ "providers": [
+  {
+   "type": "space",
+   "advances": {
+    "\uf801": -1,
+    "\uf821": 1,
+    "\uf802": -2,
+    "\uf822": 2,
+    "\uf803": -4,
+    "\uf823": 4,
+    "\uf804": -8,
+    "\uf824": 8,
+    "\uf805": -16,
+    "\uf825": 16,
+    "\uf806": -32,
+    "\uf826": 32,
+    "\uf807": -64,
+    "\uf827": 64,
+    "\uf808": -128,
+    "\uf828": 128,
+    "\uf809": -256,
+    "\uf829": 256,
+    "\uf80a": -512,
+    "\uf82a": 512
+   }
+  },
+  {
+   "type": "bitmap",
+   "file": "countercraft:font/hud/panel.png",
+   "height": 22,
+   "ascent": -43,
+   "chars": [
+    "\ue100"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "countercraft:font/hud/heart.png",
+   "height": 8,
+   "ascent": -50,
+   "chars": [
+    "\ue101"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "countercraft:font/hud/shield.png",
+   "height": 9,
+   "ascent": -50,
+   "chars": [
+    "\ue102"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "countercraft:font/hud/helmet.png",
+   "height": 8,
+   "ascent": -50,
+   "chars": [
+    "\ue105"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "countercraft:font/hud/ammo.png",
+   "height": 8,
+   "ascent": -50,
+   "chars": [
+    "\ue103"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "countercraft:font/hud/money.png",
+   "height": 8,
+   "ascent": -33,
+   "chars": [
+    "\ue104"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "countercraft:font/hud/bomb.png",
+   "height": 8,
+   "ascent": -33,
+   "chars": [
+    "\ue106"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "countercraft:font/hud/kit.png",
+   "height": 8,
+   "ascent": -33,
+   "chars": [
+    "\ue107"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "countercraft:font/hud/skull_inline.png",
+   "height": 8,
+   "ascent": 7,
+   "chars": [
+    "\ue110"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "countercraft:font/hud/headshot_inline.png",
+   "height": 8,
+   "ascent": 7,
+   "chars": [
+    "\ue111"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "countercraft:font/hud/bomb_inline.png",
+   "height": 8,
+   "ascent": 7,
+   "chars": [
+    "\ue112"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "countercraft:font/hud/clock_inline.png",
+   "height": 8,
+   "ascent": 7,
+   "chars": [
+    "\ue113"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "countercraft:font/hud/alive_inline.png",
+   "height": 8,
+   "ascent": 7,
+   "chars": [
+    "\ue114"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "countercraft:font/hud/dead_inline.png",
+   "height": 8,
+   "ascent": 7,
+   "chars": [
+    "\ue115"
+   ]
+  }
+ ]
+}
