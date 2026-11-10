@@ -1,0 +1,13 @@
+{
+ "providers": [
+  {
+   "type": "bitmap",
+   "file": "countercraft:font/flash.png",
+   "height": 256,
+   "ascent": 128,
+   "chars": [
+    "\ue000"
+   ]
+  }
+ ]
+}
